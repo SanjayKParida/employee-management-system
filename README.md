@@ -1,7 +1,7 @@
 # Employee Mangement System
 
-[![Springboot License](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/)
-[![Springboot License]((https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white))](https://www.mysql.com/)
+[![Springboot License](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)]
+[![Springboot License]((https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white))]
 
 The Employee Management System is a web application built using Spring Boot that simplifies employee data management. It provides features for adding, updating, viewing, and deleting employee records. The system allows the management of employee details like name and contact information. It leverages Spring Data JPA for database operations, ensuring seamless integration with a MySQL database.
 
